@@ -6,6 +6,8 @@ Original source: https://github.com/krishkamani/ChatApp
 Note: the code is updated to modern Android version (SDK 33), tested on real devices 
 with Android 12 and Android 8.
 
+Update to Gradle 8.12 in Nov. 2023
+
 You need to setup your Firebase service and download your own google-services.json 
 
 * For Authentication use Email+Password and Google
